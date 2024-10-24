@@ -1,4 +1,4 @@
-This is a file sharing program which enables very secure way to share file files temporarily.
+This is a file sharing program which enables very secure way to share files temporarily.
 
 Any file can be shared of any size.
 
@@ -6,7 +6,7 @@ Uploader can choose time period while uploading. A room gets created and file is
 An unique key and link is provided to the uploader after uploading.
 Only users with that particular key or link would be able to access those files.
 
-After the initial time period of that room, which was set by uploader while uploaded, expires then that room is destroyed permanently.
+After the initial time period of that room, which was set by uploader while uploading, expires then that room is destroyed permanently.
 Nobody, not even the person who run this program, can access those files after they're expired.
 
 
